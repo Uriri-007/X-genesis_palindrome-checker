@@ -22,7 +22,7 @@ body {
   row-gap: 1rem;
   flex-direction: column;
   grid-area: 1 / 1 / 6 / 2;
-  background-image: url("./images/bg.png");
+  background-image: url("bg.png");
   background-repeat: no-repeat;
   background-position: center;
 }
